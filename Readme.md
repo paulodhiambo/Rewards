@@ -21,7 +21,6 @@ This project takes advantage of many popular libraries and tools of the Android 
         * [Flow](https://developer.android.com/kotlin/flow) - notify views about API response
         * [Lifecycle](https://developer.android.com/topic/libraries/architecture/lifecycle) - perform action when lifecycle state changes
         * [ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel) - store and manage UI-related data in a lifecycle conscious way
-    * [Stetho](http://facebook.github.io/stetho/) - application debugging tool - available on debug build only!!!
 
 * Architecture
     * MVVM - application level
@@ -34,11 +33,11 @@ There are a few ways to open this project.
 ### Android Studio
 
 1. Android Studio -> File -> New -> From Version control -> Git
-2. Enter `https://github.com/paulodhiambo/reward.git` into URL field
+2. Enter `git@github.com:paulodhiambo/Rewards.git` into URL field
 
 ### Command line + Android Studio
 
-1. Run `git clone https://github.com/paulodhiambo/reward.git`
+1. Run `git clone git@github.com:paulodhiambo/Rewards.git`
 2. Android Studio -> File -> Open
 
 ## License
